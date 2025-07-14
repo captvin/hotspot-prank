@@ -51,8 +51,8 @@ A realistic fake public WiFi hotspot simulator using ESP32 that automatically sh
 ## 📥 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/esp32-hotspot-prank.git
-   cd esp32-hotspot-prank
+   git clone https://github.com/yourusername/hotspot-prank.git
+   cd hotspot-prank
 
 2. Flash filesystem:
    ```bash
